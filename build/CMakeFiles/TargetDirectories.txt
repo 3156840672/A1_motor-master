@@ -1,0 +1,3 @@
+/home/yue/Desktop/A1_motor-master/build/CMakeFiles/serial_port.dir
+/home/yue/Desktop/A1_motor-master/build/CMakeFiles/edit_cache.dir
+/home/yue/Desktop/A1_motor-master/build/CMakeFiles/rebuild_cache.dir
